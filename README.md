@@ -22,7 +22,7 @@ Participants have been invited based on relevant expertize and experience in bus
 It is up to you to decide whether to take part. If you do decide to take part, you will be asked to provide your consent before you fill out the survey. You can withdraw at any time.
 
 ### What happens to the survey data?
-The survey follows the India's data protection act of the processing of digital personal data within India where such data is: (i) collected online, or (ii) collected offline and is digitised. and has received clearance from a AU ethints committee. The survey does not seek to collect personal sensitive data. Collected data will be anonymized and stored in secure hosing within AU’s server based in the India.
+The survey follows the India's data protection act of the processing of digital personal data within India where such data is: (i) collected online, or (ii) collected offline and is digitized. and has received clearance from a AU ethints committee. The survey does not seek to collect personal sensitive data. Collected data will be anonymized and stored in secure hosing within AU’s server based in the India.
 
 ### What will happen to the results of the research project?
 The findings of this project will be published in, for instance, reports, academic articles and presentations.
