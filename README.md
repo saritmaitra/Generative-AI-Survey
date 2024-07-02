@@ -28,7 +28,7 @@ The survey follows the India's data protection act of the processing of digital 
 The findings of this project will be published in, for instance, reports, academic articles and presentations.
 
 ### What if something goes wrong?
-If you wish to raise a concern, you should inform one of the researchers in this study in the first instance, see below for contact details. If you they feel your concern has not been handled to your satisfaction, you can contact the Chair of the AU Research Ethics Committee, prakash.in@alliance.edu.in.
+If you wish to raise a concern, you should inform one of the researchers in this study in the first instance, see below for contact details. If you feel your concern has not been handled to your satisfaction, you can contact the Chair of the AU Research Ethics Committee, prakash.in@alliance.edu.in.
 
 ### Contacts for further information
 For more information contact Professor sarit.maitra@alliance.edu.in.
