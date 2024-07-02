@@ -13,7 +13,7 @@ The survey consists of 20 questions about current usage of GenAI, impact on deci
 **This survey does not ask for your personal information in any form**.
 
 ### What is the study’s purpose?
-Identify how organizations are currently using GenAI tools in their operations and decision-making processes. Determine which business decision areas are most impacted by GenAI and evaluate the changes in performance metrics and decision quality. Explore the perceived advantages and main challenges organizations face when implementing GenAI, as well as the steps taken to overcome these challenges. This survey run by a research team from AU’s Department of Business School (Department of ISOM) aims to measure the impact of GenAI on key business metrics and decision quality.
+Identify how organizations are currently using GenAI tools in their operations and decision-making processes. Determine which business decision areas are most impacted by GenAI and evaluate the changes in performance metrics and decision quality. Explore the perceived advantages and main challenges organizations face when implementing GenAI, as well as the steps taken to overcome these challenges. This survey run by a research team from AU’s Business School (Department of ISOM) aims to measure the impact of GenAI on key business metrics and decision quality.
 
 ### How have participants been chosen?
 Participants have been invited based on relevant expertize and experience in business and actively using or planning to use Generative AI for business decision.
@@ -32,3 +32,8 @@ If you wish to raise a concern, you should inform one of the researchers in this
 
 ### Contacts for further information
 For more information contact Professor sarit.maitra@alliance.edu.in.
+
+#### Researhers
+1. Mr. Sarit Maitra (sarit.maitra@alliance.edu.in)
+2. Mr. Shubham Kumar (kshubhamMBA723@bus.alliance.edu.in)
+3. Ms. Prarthna Saxena (sprarthnaMBA723@bus.alliance.edu.in)
