@@ -34,6 +34,6 @@ If you wish to raise a concern, you should inform one of the researchers in this
 For more information contact Professor sarit.maitra@alliance.edu.in.
 
 #### Researhers
-1. Mr. Sarit Maitra (sarit.maitra@alliance.edu.in)
+1. Prof. Sarit Maitra (sarit.maitra@alliance.edu.in)
 2. Mr. Shubham Kumar (kshubhamMBA723@bus.alliance.edu.in)
 3. Ms. Prarthna Saxena (sprarthnaMBA723@bus.alliance.edu.in)
