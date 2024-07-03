@@ -3,7 +3,7 @@
 ![Alliance-University-MBA](https://github.com/saritmaitra/Generative-AI-Survey/assets/45025804/703ec713-0d63-4114-8b3e-1e88ddd5cb0d)
 
 Generative AI Survey - Information Sheet
-Participants can visit this information sheet at any time. AU Research Ethics Committee Approval ID Number: 
+Participants can visit this information sheet at any time. 
 
 ### About the survey
 The survey is designed to explore the adoption and impact of Generative AI (GenAI), including models like ChatGPT, on business decision-making processes. The work is being done by a research group at Alliance University (https://www.alliance.edu.in) Business School (Department of Information System & Operation Management).
